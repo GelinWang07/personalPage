@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Home"
-  url = "home"
+  url = "/"
   weight = 30
 
 [[main]]
