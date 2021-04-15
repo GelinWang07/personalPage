@@ -15,12 +15,12 @@
 
 [[main]]
   name = "Home"
-  url = "people"
+  url = "home"
   weight = 30
 
 [[main]]
   name = "Working"
-  url = "event"
+  url = "working"
   weight = 40
 
 [[main]]
