@@ -17,4 +17,11 @@ advanced:
   css_class:
 ---
 
-I am a student from KIT
+I am a Chinese student studying machatronics and information technology as Master at Karslruhe Institute of Technology(KIT), Germany. I have obtained my bachelor degree with the same major from Karslruhe Institute of Technology. Now I am writing my master thesis in the R&D department at Trumpf Gmbh + Co.KG (Ditzingen, Germany), and under the supervision of Prof. Gisela Lanza (wbk Institute of Production Science, KIT). On this website, you can find information about my work, research and interests. 
+
+from research to production
+My work and research are mainly focused on CV and SLAM, AI and robotics, sensor and system development. In the field of industrial usages, the management and development of production are also the challenges I am looking forward to. After my master study at KIT in early 2022, I am seeking the opportunities of a phd position or other job offers. If you are interested in my work, don't be hesitated to contact me for the further cooperation.
+
+#Across the Great Wall, we can reach every corner in the world
+#Industry 4.0 #Made in China 2025
+#Full-stack engineer # ENTJ-A
