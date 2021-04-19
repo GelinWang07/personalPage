@@ -22,6 +22,7 @@ I am a Chinese student studying machatronics and information technology as Maste
 
 from research to production
 ===============
+
 My work and research are mainly focused on CV and SLAM, AI and robotics, sensor and system development. In the field of industrial usages, the management and development of production are also the challenges I am looking forward to. After my master study at KIT in early 2022, I am seeking the opportunities of a Ph.D position or other job offers. If you are interested in my work, don't be hesitated to contact me for the further cooperation.
 
 ***
