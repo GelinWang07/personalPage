@@ -6,5 +6,5 @@ In my childhood time on the track team, sprinting and long jump were main majors
 "KIT Running", "Spartan race" and half-marathon. In my to-do list, full-marathon and "Spartan race: Beast" are the next challenges to overcome. 
 ***
 <div align=right>
-<img src=run.jpg />
+<img src= static/media/run.jpg />
 </div>
