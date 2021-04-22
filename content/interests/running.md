@@ -14,7 +14,7 @@ hero_media: run.jpg
 #  columns: '1'
 advanced:
   css_style:
-  css_class:
+  css_class: right
 ---
 
 
