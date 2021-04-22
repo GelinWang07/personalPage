@@ -1,30 +1,21 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
 
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 10
-
-title:
-subtitle:
-
-image: run.jpg
-image_position: right
-
+widget: hero  # See https://wowchemy.com/docs/page-builder/
+headless: true  # This file represents a page section.
+weight: 5  # Order that this section will appear.
+title: "Wowchemy Research Group"
+subtitle: ""
+hero_media: run.jpg
 design:
-  columns: "1"
-  
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '2'
 advanced:
-  css_class: ""
+  css_style:
+  css_class:
 ---
-
 
 Running
 ===============
