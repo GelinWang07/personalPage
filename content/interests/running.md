@@ -5,13 +5,19 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 5  # Order that this section will appear.
-title: "Wowchemy Research Group"
+weight: 20  # Order that this section will appear.
+title: ""
 subtitle: ""
-hero_media: run.jpg
+image: run.jpg
+  placement: 1
+  caption: "Photo by [Geo](https://github.com/gcushen/)"
+  focal_point: "Right"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
+
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
 advanced:
   css_style:
   css_class:
