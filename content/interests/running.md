@@ -1,5 +1,3 @@
-<img src='run.jpg' align='right' style=' width:300px;height:100 px'/>
-
 Running
 ===============
 "Most runners run not because they want to live longer, but because they want to live life to the fullest. " --Haruki Murakami
