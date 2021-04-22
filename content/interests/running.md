@@ -9,9 +9,9 @@ weight: 10  # Order that this section will appear.
 #title: "about me"
 subtitle: ""
 hero_media: run.jpg
-design:
+#design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+#  columns: '1'
 advanced:
   css_style:
   css_class:
