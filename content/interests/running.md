@@ -13,6 +13,7 @@ hero_media: run.jpg
 advanced:
   css_style:
   css_class: right
+![alternative text for search engines](run.jpg)
 ---
 
 
