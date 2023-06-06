@@ -17,6 +17,6 @@ advanced:
   css_class:
 ---
 
-I am a Chinese student studying machatronics and information technology as Master at Karslruhe Institute of Technology(KIT), Germany. I have obtained my bachelor degree with the same major from Karslruhe Institute of Technology. Now I am writing my master thesis in the R&D department at Trumpf Gmbh + Co.KG (Ditzingen, Germany), and under the supervision of Prof. Gisela Lanza (wbk Institute of Production Science, KIT). On this website, you can find information about my work, research and interests. 
+
 ***
 
